@@ -173,3 +173,9 @@ uint8_t retries = 3;
 ```
 
 ## Hasil
+
+![App Screenshot](https://github.com/sariwhyu/TugasNo2/blob/main/WhatsApp%20Image%202023-01-03%20at%2018.55.30.jpeg)
+
+![App Screenshot](https://github.com/sariwhyu/TugasNo2/blob/main/WhatsApp%20Image%202023-01-03%20at%2018.56.04.jpeg)
+
+![App Screenshot](https://github.com/sariwhyu/TugasNo2/blob/main/WhatsApp%20Image%202023-01-03%20at%2021.14.48.jpeg)
